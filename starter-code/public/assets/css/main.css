@@ -1793,7 +1793,7 @@ blockquote, q {
 
 /* List */
 
-	ul {
+	/* ul {
 		list-style: disc;
 		padding-left: 1em;
 	}
@@ -1809,7 +1809,7 @@ blockquote, q {
 
 		ol li {
 			padding-left: 0.25em;
-		}
+		} */
 
 /* Icons */
 

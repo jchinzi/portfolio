@@ -1813,7 +1813,7 @@ blockquote, q {
 
 /* Icons */
 
-	ul.icons {
+	/* ul.icons {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
@@ -1831,7 +1831,7 @@ blockquote, q {
 			line-height: 2em;
 			text-align: center;
 			border: 0;
-		}
+		} */
 
 /* Form */
 

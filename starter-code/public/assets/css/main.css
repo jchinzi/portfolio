@@ -1744,7 +1744,7 @@ blockquote, q {
 
 /* Image */
 
-	.image {
+	/* .image {
 		display: inline-block;
 		border: 0;
 	}
@@ -1789,7 +1789,7 @@ blockquote, q {
 			.image.centered img {
 				margin: 0 auto;
 				width: auto;
-			}
+			} */
 
 /* List */
 

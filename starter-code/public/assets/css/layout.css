@@ -22,3 +22,64 @@ table {
 }
 
 /* Basic */
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+  color: #666;
+  line-height: 1.5em;
+}
+
+h2 {
+  font-size: 2em;
+  letter-spacing: -1px;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+header {
+  margin: 0 0 2em 0;
+}
+
+footer {
+  margin: 2em 0 0 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  border-bottom: dotted 1px rgba(128, 128, 128, 0.5);
+  -moz-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+  -webkit-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+  -ms-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+  transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+  outline: 0;
+}
+
+sub {
+  position: relative;
+  top: 0.5em;
+  font-size: 0.8em;
+}
+
+sup {
+  position: relative;
+  top: -0.5em;
+  font-size: 0.8em;
+}
+
+hr {
+  border: 0;
+  border-top: solid 1px #ddd;
+}
+
+blockquote {
+  border-left: solid 0.5em #ddd;
+  padding: 1em 0 1em 2em;
+  font-style: italic;
+}
+
+p, ul, ol, dl, table {
+  margin-bottom: 2em;
+}

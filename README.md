@@ -22,6 +22,8 @@ Estimate of time needed to complete: 2hrs
 
 Start time: 6:30p
 
+Break at 7p - TBC Tomorrow
+
 Finish time: _____
 
 Actual time needed to complete: _____

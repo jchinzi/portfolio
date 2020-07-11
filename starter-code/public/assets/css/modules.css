@@ -1669,3 +1669,29 @@ form :-ms-input-placeholder {
 form ::-moz-focus-inner {
   border: 0;
 }
+
+/* Table */
+
+table tbody tr:nth-child(2n+2) {
+  background: #f4f4f4;
+}
+
+table td {
+  padding: 0.5em 1em 0.5em 1em;
+}
+
+table th {
+  text-align: left;
+  padding: 0.5em 1em 0.5em 1em;
+  color: #fff;
+  background: #222729 url("images/overlay.png");
+}
+
+table thead {
+  background: #444;
+  color: #fff;
+}
+
+table tfoot {
+  background: #eee;
+}

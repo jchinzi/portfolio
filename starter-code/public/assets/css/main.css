@@ -1835,7 +1835,7 @@ blockquote, q {
 
 /* Form */
 
-	form label {
+	/* form label {
 		display: block;
 		text-align: left;
 		margin-bottom: 0.5em;
@@ -1902,16 +1902,16 @@ blockquote, q {
 
 	form ::-moz-focus-inner {
 		border: 0;
-	}
+	} */
 
 /* Table */
 
-	table {
+	/* table {
 		width: 100%;
 		text-align: left;
-	}
+	} */
 
-		table tbody tr:nth-child(2n+2) {
+		/* table tbody tr:nth-child(2n+2) {
 			background: #f4f4f4;
 		}
 
@@ -1933,7 +1933,7 @@ blockquote, q {
 
 		table tfoot {
 			background: #eee;
-		}
+		} */
 
 /* Button */
 

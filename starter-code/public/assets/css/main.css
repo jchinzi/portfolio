@@ -2014,12 +2014,12 @@ blockquote, q {
 		}
 
 		.icon > .label {
-			display: none; */
-		}
+			display: none;
+		} */
 
 /* Header */
 
-	#header {
+	/* #header {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -2042,9 +2042,9 @@ blockquote, q {
 		text-align: right;
 		top: 0;
 		width: 375px;
-	}
+	} */
 
-		#header .top {
+		/* #header .top {
 			-moz-flex-grow: 1;
 			-webkit-flex-grow: 1;
 			-ms-flex-grow: 1;
@@ -2074,11 +2074,11 @@ blockquote, q {
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
 				transition: color 0.35s ease-in-out;
-			}
+			} */
 
-				#header .icons a:hover {
+				/* #header .icons a:hover {
 					color: #fff;
-				}
+				} */
 
 	#logo {
 		position: relative;

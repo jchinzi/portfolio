@@ -1997,7 +1997,7 @@ blockquote, q {
 
 /* Icons */
 
-	.icon {
+	/* .icon {
 		text-decoration: none;
 	}
 
@@ -2014,7 +2014,7 @@ blockquote, q {
 		}
 
 		.icon > .label {
-			display: none;
+			display: none; */
 		}
 
 /* Header */

@@ -22,7 +22,8 @@ Estimate of time needed to complete: 2hrs
 
 Start time: 6:30p
 
-Break at 7p - TBC Tomorrow
+Break at 7p - TBC This Weekend
+Restart at 3:45p
 
 Finish time: _____
 

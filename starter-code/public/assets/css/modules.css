@@ -1,11 +1,17 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
 
 /*
 	Prologue by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+
+#title {
+  font-family: 'Crimson Text', serif;
+}
 
 mark {
 	background-color: transparent;
@@ -14,7 +20,7 @@ mark {
 
 /* Basic */
 input, textarea, select {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Crimson Text', serif;
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
@@ -1559,8 +1565,7 @@ article > .container, article:last-child {
   .image.featured {
     display: block;
     width: 100%;
-    margin: 0 33% 2em 33%;
-    max-width: 15em;
+    margin: 0 0 2em 0;
   }
 
   .image.left {
@@ -1943,17 +1948,20 @@ button,
 
 #main > section.one {
   background-color: #81918E;
-  background-image: url("../../images/banner.jpg");
+  background-image: url("../../images/Background_Flowers.jpg");
 }
 
 #main > section.two {
   background-color: #f5fafa;
+  padding: 3em;
 }
 
 #main > section.three {
   background-color: #ecf1f1;
+  padding: 3em;
 }
 
 #main > section.four {
   background-color: #e8edec;
+  padding: 3em;
 }

@@ -25,6 +25,6 @@ Start time: 6:30p
 Break at 7p - TBC This Weekend
 Restart at 3:45p
 
-Finish time: _____
+Finish time: 4:48p
 
-Actual time needed to complete: _____
+Actual time needed to complete: 90min (could probably tinker with this for much longer, but 90min got me to a good stopping point)

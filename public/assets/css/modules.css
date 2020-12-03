@@ -37,7 +37,12 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   }
 
 h2.alt {
-  color: #888;
+  color: whitesmoke;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
 }
 
   h2.alt strong {
@@ -1564,7 +1569,8 @@ article > .container, article:last-child {
 
   .image.featured {
     display: block;
-    width: 100%;
+    width: 50%;
+    padding-left: 25%;
     margin: 0 0 2em 0;
   }
 
@@ -1923,7 +1929,7 @@ button,
 }
 
 #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
-  color: inherit;
+  /* color: inherit; */
 }
 
 #main > section.dark strong {
@@ -1965,3 +1971,4 @@ button,
   background-color: #e8edec;
   padding: 3em;
 }
+

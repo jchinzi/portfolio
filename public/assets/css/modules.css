@@ -18,6 +18,24 @@ mark {
 	color: inherit;
 }
 
+#intro-text {
+  padding: 0 2em;
+}
+
+.project-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  gap: 1em
+}
+
+.project-grid > article {
+  width: 45%;
+  margin-bottom: 0;
+}
+
+
 /* Basic */
 input, textarea, select {
   font-family: 'Crimson Text', serif;
@@ -1283,6 +1301,15 @@ br.clear {
 }
 
 @media screen and (max-width: 736px) {
+
+  .project-grid {
+    flex-direction: column;
+  }
+  
+  .project-grid > article {
+    width: 60%;
+  }
+  
 
   .row {
     display: flex;

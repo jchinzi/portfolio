@@ -1981,6 +1981,7 @@ button,
 
 #main > section.one {
   background-color: #81918E;
+  opacity: 0.8;
   background-image: url("../../images/Background_Flowers.jpg");
 }
 

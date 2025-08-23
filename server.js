@@ -1,6 +1,6 @@
 'use strict';
 
-// this will bring in my express libraray
+// this will bring in my express library
 const express = require('express');
 
 // bring in the dotenv library
